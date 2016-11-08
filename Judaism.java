@@ -2,7 +2,7 @@ public class Judaism {
 	private char tintless;
 	private char sharper;
 	private static int helcoid = 0;
-
+// tipota
 	public char getTintless() {
 		return tintless;
 	}
